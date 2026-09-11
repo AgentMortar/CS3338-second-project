@@ -1,0 +1,52 @@
+commit 36ae6d3a4db6c3ea097c32ebb65580900795ea2d
+Merge: c7c92de 60b46e8
+Author: AgentMortar <uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:41:52 2026 -0700
+
+    Merge branch 'index-fix'
+
+commit 60b46e8fd79df9fb820ef2e67ab2791d341aad5e
+Author: AgentMortar <uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:37:38 2026 -0700
+
+    added div to index.html describing favorite game.
+
+commit c7c92dea695868451884ea1788a885a156703ef5
+Author: AgentMortar <uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:35:57 2026 -0700
+
+    Added div to index.html describing favorite food.
+
+commit 76b430ddcad6724fa4f0a489084c63b723b0ce76
+Merge: d92d765 89529aa
+Author: AgentMortar <uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:32:47 2026 -0700
+
+    Merge branch 'main' of https://github.com/AgentMortar/CS3338-second-project
+
+commit d92d7658e656148d30956e39829dfd1fb10d7343
+Author: AgentMortar <uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:30:50 2026 -0700
+
+    Added README.md for clarity.
+
+commit 89529aa4b08e4292631c226e1a91836fedb1d9d9
+Merge: 1d2bfc0 201fa6c
+Author: Asher Gilbert <Uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:29:00 2026 -0700
+
+    Merge pull request #1 from AgentMortar/info-fill
+    
+    fill lines in index.html
+
+commit 201fa6c708cd668ec423a8939af8879b6ad531a6
+Author: AgentMortar <uke.gilbert@gmail.com>
+Date:   Thu Sep 10 22:22:45 2026 -0700
+
+    fill lines in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
